@@ -1,0 +1,8 @@
+.field{
+	float:left; 
+	margin:	5px 5px 5px 5px;
+	padding: 20px 0px 20px 0px; 
+	text-align: center;
+	background:	white;
+	width: 40px; 
+	border: solid gray 1px;}
